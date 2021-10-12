@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    titleWeb: "Happy BirthDay",
+    introTitle: 'Happy BirthDay thầy Min Min <3',
+    introDesc: 'thầy biết hong ,ngày này 25 năm trước là ngày 1 em bé đáng iu trào đời đó :))  `,
+    btnIntro: '<< To be continued >>',
+    title: 'Happy BirthDay thầy Min Handsome <3 thầy đoán đúng rồi người đó chính là thầy đấy!',
+    desc: ' Chúc thầy sinh nhật vui vẻ nha và mau có có Người yêu nè, em lót dép ngồi hóng hơi lấu rồi đấy ! ',
+    btnYes: 'Chắc không có luôn quá >_<',
+    btnNo: 'Thầy sẽ sớm có thôi !',
+    question: 'không sao ráng lên , em tin thầy sẽ làm được mà ',
+    btnReply: '<< send >>',
+    reply: 'đr, đẹp trai như thầy thì trai theo đầy ',
+    mess: 'U là trời, em biết mà . ráng lên nha thầy ',
+    messDesc: 'và điều cuối cùng em muốn nói là ...',
+    btnAccept: 'Là....',
+    messLink: 'https://www.google.com/search?q=happy+birthday+th%E1%BA%A7y+Minh&oq=happy+birthday+th%E1%BA%A7y+Minh&aqs=chrome..69i57j33i22i29i30l9.21760j0j7&sourceid=chrome&ie=UTF-8' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
